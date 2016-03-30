@@ -7,8 +7,8 @@ html {
   background-repeat: no-repeat;
   display: block;
   margin: 5px auto;
-  width: 1000px;
-  height: 1600px;
+  width: 750px;
+  height: 1200px;
   position: relative;
   background-position: center; 
 }
@@ -20,15 +20,14 @@ html {
 iframe {
   height: 200%;
   width: 200%;
-  *width: 100%;
 }
 
 .iframeWrapper {
   position: absolute;
-  left: 169px;
-  top: 206px;
-  height: 548px;
-  width: 332px;
+  left: 127px;
+  top: 157px;
+  height: 411px;
+  width: 249px;
 }
 
 .backButton {
